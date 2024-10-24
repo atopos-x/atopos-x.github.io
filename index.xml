@@ -55,14 +55,7 @@
       <link>https://atopos-x.github.io/nav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://atopos-x.github.io/nav/</guid>
-      <description>🌞 我的 Atopos 🔨 工具 Revo Uninstaller Everything Snipaste 📑 文档 菜鸟教程 C语言中文网 现代 JavaScript 教程 Java教程 - 廖雪峰的官方网站 实践项目 中国大学MOOC 力扣 (LeetCode) Demo大师 - 技术 牛客网 🍺 博客 docitem one 爱涂鸦啊</description>
-    </item>
-    <item>
-      <title>Notes</title>
-      <link>https://atopos-x.github.io/notes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/notes/</guid>
-      <description> </description>
+      <description>🌞 我的 Atopos 标签页 🔨 工具 Revo Uninstaller Everything Snipaste 📑 文档 菜鸟教程 C语言中文网 现代 JavaScript 教程 Java教程 - 廖雪峰官方 实践项目 中国大学MOOC 力扣 (LeetCode) Demo大师 - 技术 牛客网 🍺 博客 爱涂鸦啊 Virgo ☕</description>
     </item>
     <item>
       <title>Search</title>
@@ -70,6 +63,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://atopos-x.github.io/search/</guid>
       <description> </description>
+    </item>
+    <item>
+      <title>Wiki</title>
+      <link>https://atopos-x.github.io/wiki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/wiki/</guid>
+      <description>## Wiki ### 超级简单的个人网站部署客户端推荐 [Gridea | 一个静态博客写作客户端](https://open.gridea.dev/) 一站式的方案，只需要配置，只专注于写作 ### php</description>
     </item>
   </channel>
 </rss>
