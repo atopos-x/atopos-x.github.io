@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Atopos</title>
+    <link>https://atopos-x.github.io/posts/</link>
+    <description>Recent content in Posts on Atopos</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 24 Oct 2024 19:12:05 +0800</lastBuildDate>
+    <atom:link href="https://atopos-x.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>my-first-post</title>
+      <link>https://atopos-x.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/posts/my-first-post/</guid>
+      <description>是的是的是的是的</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://atopos-x.github.io/posts/how-do-i-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/posts/how-do-i-blog/</guid>
+      <description>--- title: &amp;#34;How Do I Blog&amp;#34; aliases: tags: [_Misc] date: 2024-10-23 time: 23:22 --- sdsdsd </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atopos</title>
+    <link>https://atopos-x.github.io/</link>
+    <description>Recent content on Atopos</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 24 Oct 2024 19:12:05 +0800</lastBuildDate>
+    <atom:link href="https://atopos-x.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>my-first-post</title>
+      <link>https://atopos-x.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/posts/my-first-post/</guid>
+      <description>是的是的是的是的</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://atopos-x.github.io/posts/how-do-i-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/posts/how-do-i-blog/</guid>
+      <description>--- title: &amp;#34;How Do I Blog&amp;#34; aliases: tags: [_Misc] date: 2024-10-23 time: 23:22 --- sdsdsd </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://atopos-x.github.io/snippets/%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/snippets/%E6%97%A5%E8%AE%B0/</guid>
+      <description>--- title: &amp;lt;% tp.file.title %&amp;gt; aliases: tags: _Misc date: &amp;lt;% tp.date.now() %&amp;gt; time: &amp;lt;% tp.date.now(&amp;#34;HH:mm&amp;#34;) %&amp;gt; --- </description>
+    </item>
+    <item>
+      <title>&lt;% tp.file.title %&gt;</title>
+      <link>https://atopos-x.github.io/snippets/%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/snippets/%E7%AC%94%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://atopos-x.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/about/</guid>
+      <description>关于我的信息： 我是来自中国，是一名Java程序员</description>
+    </item>
+    <item>
+      <title>Archive</title>
+      <link>https://atopos-x.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/archive/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Nav</title>
+      <link>https://atopos-x.github.io/nav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/nav/</guid>
+      <description>🌞 我的 Atopos 🔨 工具 Revo Uninstaller Everything Snipaste 📑 文档 菜鸟教程 C语言中文网 现代 JavaScript 教程 Java教程 - 廖雪峰的官方网站 实践项目 中国大学MOOC 力扣 (LeetCode) Demo大师 - 技术 牛客网 🍺 博客 docitem one 爱涂鸦啊</description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>https://atopos-x.github.io/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/notes/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>https://atopos-x.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/search/</guid>
+      <description> </description>
+    </item>
+  </channel>
+</rss>
