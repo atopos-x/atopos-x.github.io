@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Idea on Atopos</title>
+    <link>https://atopos-x.github.io/tags/idea/</link>
+    <description>Recent content in Idea on Atopos</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://atopos-x.github.io/tags/idea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Idea</title>
+      <link>https://atopos-x.github.io/posts/idea/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/posts/idea/</guid>
+      <description>#idea Plugins（插件） .ignore 该插件用于忽略不需要git跟踪的文件 CodeGlance Pro 页面右侧小地图 Grep Console HighlightBracketPair 代码中的括号进行高亮显示 Rainbow Brackets 代码中的括号进行高亮显示 Key Promoter X 管理idea各种</description>
+    </item>
+  </channel>
+</rss>
