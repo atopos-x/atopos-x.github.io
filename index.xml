@@ -13,7 +13,14 @@
       <link>https://atopos-x.github.io/posts/idea/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://atopos-x.github.io/posts/idea/</guid>
-      <description>#idea Plugins（插件） .ignore 该插件用于忽略不需要git跟踪的文件 CodeGlance Pro 页面右侧小地图 Grep Console HighlightBracketPair 代码中的括号进行高亮显示 Rainbow Brackets 代码中的括号进行高亮显示 Key Promoter X 管理idea各种</description>
+      <description>#idea Plugins（插件） .ignore .ignore Plugin for JetBrains IDEs | JetBrains Marketplace 该插件用于忽略不需要git跟踪的文件 CodeGlance Pro CodeGlance Pro Plugin for JetBrains IDEs | JetBrains Marketplace 页面右侧小地图 Grep Console Grep Console Plugin for JetBrains IDEs | JetBrains Marketplace 用于控制台错误信息的高亮</description>
+    </item>
+    <item>
+      <title>How Do I Blog</title>
+      <link>https://atopos-x.github.io/posts/how-do-i-blog/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/posts/how-do-i-blog/</guid>
+      <description>sdsdsd</description>
     </item>
     <item>
       <title>my-first-post</title>
@@ -21,13 +28,6 @@
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://atopos-x.github.io/posts/my-first-post/</guid>
       <description>是的是的是的是的</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://atopos-x.github.io/posts/how-do-i-blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/posts/how-do-i-blog/</guid>
-      <description>--- title: &amp;#34;How Do I Blog&amp;#34; aliases: tags: [_Misc] date: 2024-10-23 time: 23:22 --- sdsdsd </description>
     </item>
     <item>
       <title></title>
