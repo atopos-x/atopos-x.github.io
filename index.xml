@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atopos</title>
-    <link>https://atopos-x.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Atopos</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 27 Oct 2024 21:44:39 +0800</lastBuildDate>
-    <atom:link href="https://atopos-x.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mail</title>
-      <link>https://atopos-x.github.io/posts/mail/</link>
+      <link>http://localhost:1313/posts/mail/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/posts/mail/</guid>
-      <description>Spike https://www.spikenow.com/ 感觉还可以，界面比较圆润，比较推荐，但是没有中文 mailbird https://www.getmailbird.com/ 挺难连的我发现，搞了一下午，连上了，同步也成功了，然后就点了点管理邮件的文件夹，又不行了，没办法退了，重</description>
+      <guid>http://localhost:1313/posts/mail/</guid>
+      <description>mailbird https://www.getmailbird.com/ 定价：定价 |邮鸟 有免费版 不错，界面简洁，没有华丽花哨，界面布局很舒适，可用，但是插件有少，翻译邮件没有办法，只能借助其他app，其他不错，还有聚合功能很不错</description>
     </item>
     <item>
       <title>idea</title>
-      <link>https://atopos-x.github.io/posts/idea/</link>
+      <link>http://localhost:1313/posts/idea/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/posts/idea/</guid>
+      <guid>http://localhost:1313/posts/idea/</guid>
       <description>Plugins（插件） .ignore .ignore Plugin for JetBrains IDEs | JetBrains Marketplace 该插件用于忽略不需要git跟踪的文件 CamelCase CamelCase Plugin for JetBrains IDEs | JetBrains Marketplace 命名格式快速切换 CodeGlance Pro CodeGlance Pro Plugin for JetBrains IDEs | JetBrains Marketplace 页面右侧小地图 Grep Console Grep Console Plugin for JetBrains</description>
     </item>
     <item>
       <title>How Do I Blog</title>
-      <link>https://atopos-x.github.io/posts/how-do-i-blog/</link>
+      <link>http://localhost:1313/posts/how-do-i-blog/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/posts/how-do-i-blog/</guid>
+      <guid>http://localhost:1313/posts/how-do-i-blog/</guid>
       <description>sdsdsd</description>
     </item>
     <item>
       <title>my-first-post</title>
-      <link>https://atopos-x.github.io/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>是的是的是的是的</description>
     </item>
     <item>
       <title></title>
-      <link>https://atopos-x.github.io/snippets/%E6%97%A5%E8%AE%B0/</link>
+      <link>http://localhost:1313/snippets/%E6%97%A5%E8%AE%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/snippets/%E6%97%A5%E8%AE%B0/</guid>
+      <guid>http://localhost:1313/snippets/%E6%97%A5%E8%AE%B0/</guid>
       <description>--- title: &amp;lt;% tp.file.title %&amp;gt; aliases: tags: _Misc date: &amp;lt;% tp.date.now() %&amp;gt; time: &amp;lt;% tp.date.now(&amp;#34;HH:mm&amp;#34;) %&amp;gt; --- </description>
     </item>
     <item>
       <title>&lt;% tp.file.title %&gt;</title>
-      <link>https://atopos-x.github.io/snippets/%E7%AC%94%E8%AE%B0/</link>
+      <link>http://localhost:1313/snippets/%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/snippets/%E7%AC%94%E8%AE%B0/</guid>
+      <guid>http://localhost:1313/snippets/%E7%AC%94%E8%AE%B0/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>https://atopos-x.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>记录一些觉得有必要记录的东西和一些关于开发相关的东西</description>
     </item>
     <item>
       <title>Archive</title>
-      <link>https://atopos-x.github.io/archive/</link>
+      <link>http://localhost:1313/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/archive/</guid>
+      <guid>http://localhost:1313/archive/</guid>
       <description> </description>
     </item>
     <item>
       <title>Nav</title>
-      <link>https://atopos-x.github.io/nav/</link>
+      <link>http://localhost:1313/nav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/nav/</guid>
+      <guid>http://localhost:1313/nav/</guid>
       <description>🌞 我的 Atopos Java学习笔记 🔨 工具 Revo Uninstaller Everything Snipaste 多业务镜像搜索 📑 文档 菜鸟教程 C语言中文网 现代 JavaScript 教程 Java教程 - 廖雪峰官方 实践项目 中国大学MOOC 力扣 (LeetCode) Demo大师 - 技术</description>
     </item>
     <item>
       <title>Search</title>
-      <link>https://atopos-x.github.io/search/</link>
+      <link>http://localhost:1313/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/search/</guid>
+      <guid>http://localhost:1313/search/</guid>
       <description> </description>
     </item>
     <item>
       <title>Wiki</title>
-      <link>https://atopos-x.github.io/wiki/</link>
+      <link>http://localhost:1313/wiki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/wiki/</guid>
+      <guid>http://localhost:1313/wiki/</guid>
       <description>Wiki 超级简单的个人网站部署客户端推荐 Gridea | 一个静态博客写作客户端 一站式的方案，只需要配置，只专注于写作 php xdebug的配置、调试、跟踪、调优、分析 php xdebug的配</description>
     </item>
   </channel>

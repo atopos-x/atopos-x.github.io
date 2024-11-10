@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Atopos</title>
-    <link>https://atopos-x.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Atopos</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 27 Oct 2024 21:44:39 +0800</lastBuildDate>
-    <atom:link href="https://atopos-x.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mail</title>
-      <link>https://atopos-x.github.io/tags/mail/</link>
+      <link>http://localhost:1313/tags/mail/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/tags/mail/</guid>
+      <guid>http://localhost:1313/tags/mail/</guid>
       <description></description>
     </item>
     <item>
       <title>Idea</title>
-      <link>https://atopos-x.github.io/tags/idea/</link>
+      <link>http://localhost:1313/tags/idea/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/tags/idea/</guid>
+      <guid>http://localhost:1313/tags/idea/</guid>
       <description></description>
     </item>
     <item>
       <title>_Misc</title>
-      <link>https://atopos-x.github.io/tags/_misc/</link>
+      <link>http://localhost:1313/tags/_misc/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/tags/_misc/</guid>
+      <guid>http://localhost:1313/tags/_misc/</guid>
       <description></description>
     </item>
   </channel>

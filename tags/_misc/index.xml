@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>_Misc on Atopos</title>
-    <link>https://atopos-x.github.io/tags/_misc/</link>
+    <link>http://localhost:1313/tags/_misc/</link>
     <description>Recent content in _Misc on Atopos</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 27 Oct 2024 21:44:39 +0800</lastBuildDate>
-    <atom:link href="https://atopos-x.github.io/tags/_misc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/_misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How Do I Blog</title>
-      <link>https://atopos-x.github.io/posts/how-do-i-blog/</link>
+      <link>http://localhost:1313/posts/how-do-i-blog/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/posts/how-do-i-blog/</guid>
+      <guid>http://localhost:1313/posts/how-do-i-blog/</guid>
       <description>sdsdsd</description>
     </item>
     <item>
       <title>my-first-post</title>
-      <link>https://atopos-x.github.io/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>是的是的是的是的</description>
     </item>
     <item>
       <title>&lt;% tp.file.title %&gt;</title>
-      <link>https://atopos-x.github.io/snippets/%E7%AC%94%E8%AE%B0/</link>
+      <link>http://localhost:1313/snippets/%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/snippets/%E7%AC%94%E8%AE%B0/</guid>
+      <guid>http://localhost:1313/snippets/%E7%AC%94%E8%AE%B0/</guid>
       <description></description>
     </item>
   </channel>

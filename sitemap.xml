@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://atopos-x.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-27T21:44:39+08:00</lastmod>
   </url><url>
-    <loc>https://atopos-x.github.io/tags/mail/</loc>
+    <loc>http://localhost:1313/tags/mail/</loc>
     <lastmod>2024-10-27T21:44:39+08:00</lastmod>
   </url><url>
-    <loc>https://atopos-x.github.io/posts/mail/</loc>
+    <loc>http://localhost:1313/posts/mail/</loc>
     <lastmod>2024-10-27T21:44:39+08:00</lastmod>
   </url><url>
-    <loc>https://atopos-x.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-10-27T21:44:39+08:00</lastmod>
   </url><url>
-    <loc>https://atopos-x.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-10-27T21:44:39+08:00</lastmod>
   </url><url>
-    <loc>https://atopos-x.github.io/posts/idea/</loc>
+    <loc>http://localhost:1313/posts/idea/</loc>
     <lastmod>2024-10-27T21:44:39+08:00</lastmod>
   </url><url>
-    <loc>https://atopos-x.github.io/tags/idea/</loc>
+    <loc>http://localhost:1313/tags/idea/</loc>
     <lastmod>2024-10-27T21:44:39+08:00</lastmod>
   </url><url>
-    <loc>https://atopos-x.github.io/tags/_misc/</loc>
+    <loc>http://localhost:1313/tags/_misc/</loc>
     <lastmod>2024-10-27T21:44:39+08:00</lastmod>
   </url><url>
-    <loc>https://atopos-x.github.io/posts/how-do-i-blog/</loc>
+    <loc>http://localhost:1313/posts/how-do-i-blog/</loc>
     <lastmod>2024-10-27T21:44:39+08:00</lastmod>
   </url><url>
-    <loc>https://atopos-x.github.io/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
     <lastmod>2024-10-24T19:12:05+08:00</lastmod>
   </url><url>
-    <loc>https://atopos-x.github.io/snippets/%E6%97%A5%E8%AE%B0/</loc>
+    <loc>http://localhost:1313/snippets/%E6%97%A5%E8%AE%B0/</loc>
   </url><url>
-    <loc>https://atopos-x.github.io/snippets/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>http://localhost:1313/snippets/%E7%AC%94%E8%AE%B0/</loc>
   </url><url>
-    <loc>https://atopos-x.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-10-27T21:44:39+08:00</lastmod>
   </url><url>
-    <loc>https://atopos-x.github.io/archive/</loc>
+    <loc>http://localhost:1313/archive/</loc>
     <lastmod>2024-10-27T21:44:39+08:00</lastmod>
   </url><url>
-    <loc>https://atopos-x.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://atopos-x.github.io/nav/</loc>
+    <loc>http://localhost:1313/nav/</loc>
     <lastmod>2024-10-27T21:44:39+08:00</lastmod>
   </url><url>
-    <loc>https://atopos-x.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2024-10-27T21:44:39+08:00</lastmod>
   </url><url>
-    <loc>https://atopos-x.github.io/snippets/</loc>
+    <loc>http://localhost:1313/snippets/</loc>
   </url><url>
-    <loc>https://atopos-x.github.io/wiki/</loc>
+    <loc>http://localhost:1313/wiki/</loc>
     <lastmod>2024-10-27T21:44:39+08:00</lastmod>
   </url>
 </urlset>
