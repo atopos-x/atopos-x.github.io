@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Atopos</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://atopos-x.github.io/posts/</link>
     <description>Recent content in Posts on Atopos</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 27 Oct 2024 21:44:39 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://atopos-x.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cloudflare</title>
+      <link>https://atopos-x.github.io/posts/cloudflare/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/posts/cloudflare/</guid>
+      <description>错误 =重定向次数过多 需要进入到cloudflare，找到使用的域名，打开，然后找到SSL/TLS-&amp;gt;概述，将加密模式改为完全，之后强制刷新ctrl+shi</description>
+    </item>
     <item>
       <title>Mail</title>
-      <link>http://localhost:1313/posts/mail/</link>
+      <link>https://atopos-x.github.io/posts/mail/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mail/</guid>
+      <guid>https://atopos-x.github.io/posts/mail/</guid>
       <description>mailbird https://www.getmailbird.com/ 定价：定价 |邮鸟 有免费版 不错，界面简洁，没有华丽花哨，界面布局很舒适，可用，但是插件有少，翻译邮件没有办法，只能借助其他app，其他不错，还有聚合功能很不错</description>
     </item>
     <item>
       <title>idea</title>
-      <link>http://localhost:1313/posts/idea/</link>
+      <link>https://atopos-x.github.io/posts/idea/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/idea/</guid>
+      <guid>https://atopos-x.github.io/posts/idea/</guid>
       <description>Plugins（插件） .ignore .ignore Plugin for JetBrains IDEs | JetBrains Marketplace 该插件用于忽略不需要git跟踪的文件 CamelCase CamelCase Plugin for JetBrains IDEs | JetBrains Marketplace 命名格式快速切换 CodeGlance Pro CodeGlance Pro Plugin for JetBrains IDEs | JetBrains Marketplace 页面右侧小地图 Grep Console Grep Console Plugin for JetBrains</description>
     </item>
     <item>
-      <title>How Do I Blog</title>
-      <link>http://localhost:1313/posts/how-do-i-blog/</link>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/how-do-i-blog/</guid>
-      <description>sdsdsd</description>
-    </item>
-    <item>
       <title>my-first-post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://atopos-x.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://atopos-x.github.io/posts/my-first-post/</guid>
       <description>是的是的是的是的</description>
     </item>
   </channel>
