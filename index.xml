@@ -30,13 +30,6 @@
       <description>Plugins（插件） .ignore .ignore Plugin for JetBrains IDEs | JetBrains Marketplace 该插件用于忽略不需要git跟踪的文件 CamelCase CamelCase Plugin for JetBrains IDEs | JetBrains Marketplace 命名格式快速切换 CodeGlance Pro CodeGlance Pro Plugin for JetBrains IDEs | JetBrains Marketplace 页面右侧小地图 Grep Console Grep Console Plugin for JetBrains</description>
     </item>
     <item>
-      <title>my-first-post</title>
-      <link>https://atopos-x.github.io/posts/my-first-pos/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos-x.github.io/posts/my-first-pos/</guid>
-      <description>是的是的是的是的</description>
-    </item>
-    <item>
       <title>About</title>
       <link>https://atopos-x.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
