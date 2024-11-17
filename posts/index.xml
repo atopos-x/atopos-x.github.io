@@ -20,7 +20,7 @@
       <link>https://atopos-x.github.io/posts/linux/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://atopos-x.github.io/posts/linux/</guid>
-      <description>ps 命令： ps 命令可以显示当前运行的进程的快照。 ps aux 或 ps -ef 命令可以显示所有进程的详细信息，包括用户、进程ID（PID）、CPU使用率、内存使用率等。 示例： ps aux ps -ef ```</description>
+      <description>ps 命令： ps 命令可以显示当前运行的进程的快照。 ps aux 或 ps -ef 命令可以显示所有进程的详细信息，包括用户、进程ID（PID）、CPU使用率、内存使用率等。 示例： ps aux ps -ef</description>
     </item>
     <item>
       <title>Mail</title>
