@@ -13,7 +13,14 @@
       <link>https://atopos-x.github.io/posts/cloudflare/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://atopos-x.github.io/posts/cloudflare/</guid>
-      <description>错误 =重定向次数过多 需要进入到cloudflare，找到使用的域名，打开，然后找到SSL/TLS-&amp;gt;概述，将加密模式改为完全，之后强制刷新ctrl+shi</description>
+      <description>错误 =重定向次数过多 需要进入到cloudflare，找到使用的域名，打开，然后找到SSL/TLS-&amp;gt;概述，将加密模式改为完全，之后强制刷新ctrl + shift + r</description>
+    </item>
+    <item>
+      <title>cloudflare</title>
+      <link>https://atopos-x.github.io/posts/linux/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/posts/linux/</guid>
+      <description>ps 命令： ps 命令可以显示当前运行的进程的快照。 ps aux 或 ps -ef 命令可以显示所有进程的详细信息，包括用户、进程ID（PID）、CPU使用率、内存使用率等。 示例： bash 复制 ps aux</description>
     </item>
   </channel>
 </rss>
