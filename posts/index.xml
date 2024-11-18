@@ -37,11 +37,11 @@
       <description>Plugins（插件） .ignore .ignore Plugin for JetBrains IDEs | JetBrains Marketplace 该插件用于忽略不需要git跟踪的文件 CamelCase CamelCase Plugin for JetBrains IDEs | JetBrains Marketplace 命名格式快速切换 CodeGlance Pro CodeGlance Pro Plugin for JetBrains IDEs | JetBrains Marketplace 页面右侧小地图 Grep Console Grep Console Plugin for JetBrains</description>
     </item>
     <item>
-      <title>idea插件</title>
+      <title>idea设置</title>
       <link>https://atopos-x.github.io/posts/idea%E8%AE%BE%E7%BD%AE/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://atopos-x.github.io/posts/idea%E8%AE%BE%E7%BD%AE/</guid>
-      <description>必要设置 关闭自动更新 打开idea软件，点击菜单栏中的File选项 在下拉菜单中选择Settings选项 图片是弹出的弹窗，找到Updates，取消掉图中的勾选 基础设</description>
+      <description>必要设置 关闭自动更新 点击菜单栏中的File选项 在下拉菜单中选择Settings选项 图片是弹出的弹窗，找到Updates，取消掉图中的勾选 自动接受不信任的证书 问题</description>
     </item>
     <item>
       <title>my-first-post</title>
