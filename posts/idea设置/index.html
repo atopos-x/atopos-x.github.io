@@ -117,7 +117,7 @@
         <div class="page-operation">
             <div><a href="#"><img src="/imgs/icons/arrow-up-circle.svg" alt=""></a></div>
             <div><a href="https://atopos-x.github.io/posts/idea%E6%8F%92%E4%BB%B6/"><img src="/imgs/icons/arrow-left-circle.svg" alt=""></a></div>
-            <div><a href="https://atopos-x.github.io/posts/my-first-pos/"><img src="/imgs/icons/arrow-right-circle.svg" alt=""></a></div>
+            <div><a href="https://atopos-x.github.io/posts/my-first-post/"><img src="/imgs/icons/arrow-right-circle.svg" alt=""></a></div>
         </div>
         
         <nav id="TableOfContents">
@@ -152,36 +152,36 @@
 <li>在下拉菜单中选择<code>Settings</code>选项</li>
 <li>图片是弹出的弹窗，找到Updates，取消掉图中的勾选</li>
 </ol>
-<p><img src="assets/Pasted%20image%2020241025155756.png" alt=""></p>
+<p><img src="../assets/Pasted%20image%2020241025155756%201.png" alt=""></p>
 <h3 id="自动接受不信任的证书">自动接受不信任的证书</h3>
 <p>问题：每一次打开idea都会弹出证书确认的弹窗
 解决办法：把Server Certificates页面的第一个选型勾选上就可以了
-<img src="assets/Pasted%20image%2020241117193714.png" alt=""></p>
+<img src="../assets/Pasted%20image%2020241117193714.png" alt=""></p>
 <h2 id="基础设置">基础设置</h2>
 <h3 id="字体和主题">字体和主题</h3>
 <p>这里可以idea的主题和字体
-<img src="assets/Pasted%20image%2020241118164031.png" alt=""></p>
+<img src="../assets/Pasted%20image%2020241118164031.png" alt=""></p>
 <h3 id="编辑器字体">编辑器字体</h3>
 <p>在font里可以选择合适的字体
-<img src="assets/Pasted%20image%2020241112200342.png" alt=""></p>
+<img src="../assets/Pasted%20image%2020241112200342%201.png" alt=""></p>
 <h3 id="编码">编码</h3>
 <p>修改编码格式，最下边的一定要勾选
-<img src="assets/Pasted%20image%2020241118165254.png" alt=""></p>
+<img src="../assets/Pasted%20image%2020241118165254.png" alt=""></p>
 <h3 id="maven">Maven</h3>
 <ol>
 <li>配置maven的主目录（当下方显示处Version:版本号说明成功了）</li>
 <li>配置maven的配置文件，在<code>maven主目录/conf/settings.xml</code>，然后勾选Override之后，你会发现Local repository变成了maven配置文件内所配置的仓库地址。结束</li>
 <li>如果如果想自定义仓库地址，勾选Local repository的Override，然后就可以配置了。
-<img src="assets/Pasted%20image%2020241118170113.png" alt=""></li>
+<img src="../assets/Pasted%20image%2020241118170113.png" alt=""></li>
 </ol>
 <h3 id="es6语法支持">ES6语法支持</h3>
 <p>下拉框内可以选择语法
-<img src="assets/Pasted%20image%2020241118171622.png" alt=""></p>
+<img src="../assets/Pasted%20image%2020241118171622.png" alt=""></p>
 <h3 id="代码补全模板">代码补全模板</h3>
 <p>第一种玩法
-<img src="assets/Pasted%20image%2020241118171914.png" alt="">
+<img src="../assets/Pasted%20image%2020241118171914.png" alt="">
 第二种玩法
-<img src="assets/Pasted%20image%2020241118171959.png" alt="">
+<img src="../assets/Pasted%20image%2020241118171959.png" alt="">
 通过后缀的方式实现代码自动补全，常见的：</p>
 <table>
 <thead>
@@ -223,16 +223,16 @@
 </table>
 <h2 id="打开springboot的run-dashboard">打开springboot的run dashboard</h2>
 <p>先看下run dashboard是什么：
-<img src="assets/1314186-20180413093018664-88251637.png" alt="">
+<img src="../assets/1314186-20180413093018664-88251637.png" alt="">
 可以看到，这里可以同时显示多个springboot项目，非常方便。</p>
 <p>默认情况下，idea的run dashboard是关闭的，当检测到你有多个springboot项目时会弹出提示框，询问是否打开。</p>
 <p>如果我们想要自己打开，需要修改配置。
 在你的idea的项目目录中，有一个.idea目录：
-<img src="assets/1526786924641.png" alt="">
+<img src="../assets/1526786924641.png" alt="">
 其中，有一个workspace.xml：
-<img src="assets/1526786976776.png" alt="">
+<img src="../assets/1526786976776.png" alt="">
 打开，搜索Rundashboard，找到下面这段：
-<img src="assets/1314186-20180413093746177-931677889.png" alt="">
+<img src="../assets/1314186-20180413093746177-931677889.png" alt="">
 然后在Component中添加下面的内容：</p>
 <div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-xml" data-lang="xml"><span style="display:flex;"><span><span style="color:#000080">&lt;option</span> <span style="color:#008080">name=</span><span style="color:#d14">&#34;configurationTypes&#34;</span><span style="color:#000080">&gt;</span>  
 </span></span><span style="display:flex;"><span>    <span style="color:#000080">&lt;set&gt;</span>  
@@ -267,7 +267,7 @@
 
     <div class="container-prevnext">
     <div><a href="https://atopos-x.github.io/posts/idea%E6%8F%92%E4%BB%B6/">← idea插件</a></div>
-    <div><a href="https://atopos-x.github.io/posts/my-first-pos/">my-first-post  →</a></div>
+    <div><a href="https://atopos-x.github.io/posts/my-first-post/">my-first-post  →</a></div>
 </div>
     
     <div class="container-comment">
