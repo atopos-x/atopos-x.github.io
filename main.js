@@ -7959,12 +7959,12 @@
         _this.css("white-space", "pre-wrap");
       }
       if (!isShow) _this.css("display", "none");
-      (0, import_jquery10.default)(this).before(`<div class="lang" id="${_id}">${isShow ? _lang + " \u25BD" : _lang + " \u25B7"}</div>`);
+      (0, import_jquery10.default)(this).before(`<div class="lang" id="${_id}">${isShow ? _lang + " \u{1F642}" : _lang + " \u{1F643}"}</div>`);
       let _langEle = (0, import_jquery10.default)("#" + _id);
       _langEle.click(function() {
         _this.toggle();
         isShow = !isShow;
-        _langEle.html(isShow ? `${_lang} \u25BD` : `${_lang} \u25B7`);
+        _langEle.html(isShow ? `${_lang} \u{1F642}` : `${_lang} \u{1F643}`);
       });
     });
   }

@@ -13,7 +13,7 @@
       <link>https://atopos-x.github.io/posts/cloudflare/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://atopos-x.github.io/posts/cloudflare/</guid>
-      <description>错误 =重定向次数过多 需要进入到cloudflare，找到使用的域名，打开，然后找到SSL/TLS-&amp;gt;概述，将加密模式改为完全，之后强制刷新ctrl + shift + r</description>
+      <description>错误 ::重定向次数过多 需要进入到cloudflare，找到使用的域名，打开，然后找到SSL/TLS-&amp;gt;概述，将加密模式改为完全，之后强制刷新ctrl + shift +</description>
     </item>
     <item>
       <title>Linux</title>
