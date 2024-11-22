@@ -20,7 +20,7 @@
       <link>https://atopos-x.github.io/posts/idea%E8%AE%BE%E7%BD%AE/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://atopos-x.github.io/posts/idea%E8%AE%BE%E7%BD%AE/</guid>
-      <description>必要设置 关闭自动更新 点击菜单栏中的File选项 在下拉菜单中选择Settings选项 图片是弹出的弹窗，找到Updates，取消掉图中的勾选 自动接受不信任的证书 问题</description>
+      <description>必要设置 Maven 配置maven的主目录（当下方显示处Version:版本号说明成功了） 配置maven的配置文件，在maven主目录/conf/settings.xml</description>
     </item>
   </channel>
 </rss>

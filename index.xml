@@ -41,7 +41,7 @@
       <link>https://atopos-x.github.io/posts/idea%E8%AE%BE%E7%BD%AE/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://atopos-x.github.io/posts/idea%E8%AE%BE%E7%BD%AE/</guid>
-      <description>必要设置 关闭自动更新 点击菜单栏中的File选项 在下拉菜单中选择Settings选项 图片是弹出的弹窗，找到Updates，取消掉图中的勾选 自动接受不信任的证书 问题</description>
+      <description>必要设置 Maven 配置maven的主目录（当下方显示处Version:版本号说明成功了） 配置maven的配置文件，在maven主目录/conf/settings.xml</description>
     </item>
     <item>
       <title>my-first-post</title>
@@ -69,7 +69,7 @@
       <link>https://atopos-x.github.io/nav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://atopos-x.github.io/nav/</guid>
-      <description>🌞 我的 Atopos Java学习笔记 🔨 工具 Revo Uninstaller Everything Snipaste 多业务镜像搜索 📑 文档 菜鸟教程 C语言中文网 现代 JavaScript 教程 Java教程 - 廖雪峰官方 实践项目 中国大学MOOC 力扣 (LeetCode) Demo大师 - 技术</description>
+      <description>🌞 我的 Atopos Java学习笔记 🔨 工具 Revo Uninstaller Everything Snipaste 多业务镜像搜索 压缩 📑 文档 菜鸟教程 C语言中文网 现代 JavaScript 教程 Java教程 - 廖雪峰官方 实践项目 中国大学MOOC 力扣 (LeetCode) Demo大师 -</description>
     </item>
     <item>
       <title>Search</title>
