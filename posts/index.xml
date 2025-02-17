@@ -6,8 +6,22 @@
     <description>Recent content in Posts on Atopos</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://atopos-x.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java01</title>
+      <link>https://atopos-x.github.io/posts/java01/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/posts/java01/</guid>
+      <description>随堂笔记 String、Stringbuffer、StringBuilder的区别 Stringbuffer是由synchronized修饰的，所以是加锁的是并发安</description>
+    </item>
+    <item>
+      <title>Java01</title>
+      <link>https://atopos-x.github.io/posts/java%E8%AF%95%E9%A2%98/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/posts/java%E8%AF%95%E9%A2%98/</guid>
+      <description>利用反射改变字符串，保证引用不变 String s = new String(&amp;#34;abc&amp;#34;); // 在这中间添加N行代码，但必须保证s引用不变，最终的输出将变为abcd // 反射 Field value = s.getClass().getDeclaredField(&amp;#34;value&amp;#34;); value.setAccessible(true); value.set(s,&amp;#34;abcd&amp;#34;.toCharArray()); System.out.println(s); intern方法的使用 String s1 =</description>
+    </item>
     <item>
       <title>cloudflare</title>
       <link>https://atopos-x.github.io/posts/cloudflare/</link>
