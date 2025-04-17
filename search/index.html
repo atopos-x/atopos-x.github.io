@@ -89,7 +89,7 @@
     <div id="data" style="display: none;">
         
             
-                [{"content":"随堂笔记 string、stringbuffer、stringbuilder的区别 stringbuffer是由synchronized修饰的，所以是加锁的是并发安全的\narraylist和linkedlist linklist是一个队列，并且底层实现了deque接口，如果一个类是实现了deque接口，就表示它是一个双端队列，并且提供了对头部和尾部添加元素的方法\ncopyonwritearraylist的底层原理是怎么样的 首先copyonwritearraylist内部也是用数组来实现的，在向copyonwritearraylist添加元素时，会复制一个新的数组，写操作在原数组上进行，读操作在原数组上进行 并且，写操作会加锁，防止出现并发写入，导致丢失数据的问题 写操作结束后，会把原数组指向新数组 copyonwritearraylist允许在写操作时来读取数据，大大提高了读的性能，因此适合读多写少的应用场景，但是copyonwritearraylist会比较占内存，同时可能读到的数据不是实时最新的数据，所以不适合实时性要求很高的场景 ","date":"2025-01-09","permalink":"https://atopos.xin/posts/java01/","summary":"随堂笔记 String、Stringbuffer、StringBuilder的区别 Stringbuffer是由synchronized修饰的，所以是加锁的是并发安","title":"java01"},]
+                [{"content":"随堂笔记 string、stringbuffer、stringbuilder的区别 stringbuffer是由synchronized修饰的，所以是加锁的，是并发安全的\narraylist和linkedlist linklist是一个队列，并且底层实现了deque接口，如果一个类是实现了deque接口，就表示它是一个双端队列，并且提供了对头部和尾部添加元素的方法。\ncopyonwritearraylist的底层原理是怎么样的？ 首先copyonwritearraylist内部也是用数组来实现的，在向copyonwritearraylist添加元素时，会复制一个新的数组，写操作在原数组上进行，读操作在原数组上进行 并且，写操作会加锁，防止出现并发写入，导致丢失数据的问题 写操作结束后，会把原数组指向新数组 copyonwritearraylist允许在写操作时来读取数据，大大提高了读的性能，因此适合读多写少的应用场景，但是copyonwritearraylist会比较占内存，同时可能读到的数据不是实时最新的数据，所以不适合实时性要求很高的场景 reentrantlock中的trylock和lock有什么区别？ //阻塞加锁，直到加到锁，方法也没有返回值 reentrantlock.lock(); //非阻塞加锁，具有返回值：true加锁成功，false加锁失败 boolean result = reentrantlock.trylock(); ","date":"2025-04-09","permalink":"https://atopos.xin/posts/java01/","summary":"随堂笔记 String、Stringbuffer、StringBuilder的区别 Stringbuffer是由synchronized修饰的，所以是加锁的，是并发","title":"java01"},]
             
         
             
