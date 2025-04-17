@@ -2,73 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://atopos.xin/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/java/</loc>
+    <loc>https://atopos.xin/tags/java/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/java01/</loc>
+    <loc>https://atopos.xin/posts/java01/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/java%E5%B0%8F%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://atopos.xin/tags/java%E5%B0%8F%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2025-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/java%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://atopos.xin/tags/java%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/java%E8%AF%95%E9%A2%98/</loc>
+    <loc>https://atopos.xin/posts/java%E8%AF%95%E9%A2%98/</loc>
     <lastmod>2025-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://atopos.xin/posts/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://atopos.xin/tags/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tuling/</loc>
+    <loc>https://atopos.xin/tags/tuling/</loc>
     <lastmod>2025-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cloudflare/</loc>
+    <loc>https://atopos.xin/posts/cloudflare/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cloudflare/</loc>
+    <loc>https://atopos.xin/tags/cloudflare/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
+    <loc>https://atopos.xin/tags/linux/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/linux/</loc>
+    <loc>https://atopos.xin/posts/linux/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/_misc/</loc>
+    <loc>https://atopos.xin/tags/_misc/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mail/</loc>
+    <loc>https://atopos.xin/posts/mail/</loc>
     <lastmod>2024-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/idea/</loc>
+    <loc>https://atopos.xin/tags/idea/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/idea%E6%8F%92%E4%BB%B6/</loc>
+    <loc>https://atopos.xin/posts/idea%E6%8F%92%E4%BB%B6/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/idea%E8%AE%BE%E7%BD%AE/</loc>
+    <loc>https://atopos.xin/posts/idea%E8%AE%BE%E7%BD%AE/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://atopos.xin/posts/my-first-post/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://atopos.xin/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>https://atopos.xin/archive/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://atopos.xin/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/nav/</loc>
+    <loc>https://atopos.xin/nav/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://atopos.xin/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/wiki/</loc>
+    <loc>https://atopos.xin/wiki/</loc>
   </url>
 </urlset>

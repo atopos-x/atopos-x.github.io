@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Idea on Atopos</title>
-    <link>http://localhost:1313/tags/idea/</link>
+    <link>https://atopos.xin/tags/idea/</link>
     <description>Recent content in Idea on Atopos</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/idea/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://atopos.xin/tags/idea/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>idea插件</title>
-      <link>http://localhost:1313/posts/idea%E6%8F%92%E4%BB%B6/</link>
+      <link>https://atopos.xin/posts/idea%E6%8F%92%E4%BB%B6/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/idea%E6%8F%92%E4%BB%B6/</guid>
+      <guid>https://atopos.xin/posts/idea%E6%8F%92%E4%BB%B6/</guid>
       <description>Plugins（插件） .ignore .ignore Plugin for JetBrains IDEs | JetBrains Marketplace 该插件用于忽略不需要git跟踪的文件 CamelCase CamelCase Plugin for JetBrains IDEs | JetBrains Marketplace 命名格式快速切换 CodeGlance Pro CodeGlance Pro Plugin for JetBrains IDEs | JetBrains Marketplace 页面右侧小地图 Grep Console Grep Console Plugin for JetBrains</description>
     </item>
     <item>
       <title>idea设置</title>
-      <link>http://localhost:1313/posts/idea%E8%AE%BE%E7%BD%AE/</link>
+      <link>https://atopos.xin/posts/idea%E8%AE%BE%E7%BD%AE/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/idea%E8%AE%BE%E7%BD%AE/</guid>
+      <guid>https://atopos.xin/posts/idea%E8%AE%BE%E7%BD%AE/</guid>
       <description>必要设置 Maven 配置maven的主目录（当下方显示处Version:版本号说明成功了） 配置maven的配置文件，在maven主目录/conf/settings.xml</description>
     </item>
   </channel>
