@@ -2,66 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Atopos</title>
-    <link>https://atopos.xin/tags/</link>
+    <link>https://atopos-x.github.io/tags/</link>
     <description>Recent content in Tags on Atopos</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://atopos.xin/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://atopos-x.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java</title>
-      <link>https://atopos.xin/tags/java/</link>
+      <link>https://atopos-x.github.io/tags/java/</link>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://atopos.xin/tags/java/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Java小测试</title>
-      <link>https://atopos.xin/tags/java%E5%B0%8F%E6%B5%8B%E8%AF%95/</link>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://atopos.xin/tags/java%E5%B0%8F%E6%B5%8B%E8%AF%95/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Java笔记</title>
-      <link>https://atopos.xin/tags/java%E7%AC%94%E8%AE%B0/</link>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://atopos.xin/tags/java%E7%AC%94%E8%AE%B0/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tuling</title>
-      <link>https://atopos.xin/tags/tuling/</link>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://atopos.xin/tags/tuling/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cloudflare</title>
-      <link>https://atopos.xin/tags/cloudflare/</link>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos.xin/tags/cloudflare/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux</title>
-      <link>https://atopos.xin/tags/linux/</link>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos.xin/tags/linux/</guid>
+      <guid>https://atopos-x.github.io/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>_Misc</title>
-      <link>https://atopos.xin/tags/_misc/</link>
-      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos.xin/tags/_misc/</guid>
+      <link>https://atopos-x.github.io/tags/_misc/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/tags/_misc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://atopos-x.github.io/tags/linux/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://atopos-x.github.io/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Idea</title>
-      <link>https://atopos.xin/tags/idea/</link>
+      <link>https://atopos-x.github.io/tags/idea/</link>
       <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos.xin/tags/idea/</guid>
+      <guid>https://atopos-x.github.io/tags/idea/</guid>
       <description></description>
     </item>
   </channel>
