@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on Atopos</title>
-    <link>https://atopos.xin/tags/linux/</link>
+    <link>https://atopos-x.github.io/tags/linux/</link>
     <description>Recent content in Linux on Atopos</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://atopos.xin/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://atopos-x.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux</title>
-      <link>https://atopos.xin/posts/linux/</link>
+      <link>https://atopos-x.github.io/posts/linux/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos.xin/posts/linux/</guid>
+      <guid>https://atopos-x.github.io/posts/linux/</guid>
       <description>Linux命令 ps 命令： ps 命令可以显示当前运行的进程的快照。 ps aux 或 ps -ef 命令可以显示所有进程的详细信息，包括用户、进程ID（PID）、CPU使用率、内存使用率等。 ps</description>
     </item>
   </channel>

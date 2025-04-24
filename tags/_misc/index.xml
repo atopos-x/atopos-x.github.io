@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>_Misc on Atopos</title>
-    <link>https://atopos.xin/tags/_misc/</link>
+    <link>https://atopos-x.github.io/tags/_misc/</link>
     <description>Recent content in _Misc on Atopos</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://atopos.xin/tags/_misc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://atopos-x.github.io/tags/_misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cloudflare</title>
-      <link>https://atopos.xin/posts/cloudflare/</link>
+      <link>https://atopos-x.github.io/posts/cloudflare/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos.xin/posts/cloudflare/</guid>
+      <guid>https://atopos-x.github.io/posts/cloudflare/</guid>
       <description>错误 ::重定向次数过多 需要进入到cloudflare，找到使用的域名，打开，然后找到SSL/TLS-&amp;gt;概述，将加密模式改为完全，之后强制刷新ctrl + shift +</description>
     </item>
     <item>
       <title>Mail</title>
-      <link>https://atopos.xin/posts/mail/</link>
+      <link>https://atopos-x.github.io/posts/mail/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos.xin/posts/mail/</guid>
+      <guid>https://atopos-x.github.io/posts/mail/</guid>
       <description>mailbird https://www.getmailbird.com/ 价格：定价 |邮鸟 有免费版 不错，界面简洁，没有华丽花哨，界面布局很舒适，可用，但是插件有少，翻译邮件没有办法，只能借助其他app，其他不错，还有聚合功能很不错</description>
     </item>
     <item>
       <title>my-first-post</title>
-      <link>https://atopos.xin/posts/my-first-post/</link>
+      <link>https://atopos-x.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://atopos.xin/posts/my-first-post/</guid>
+      <guid>https://atopos-x.github.io/posts/my-first-post/</guid>
       <description>是的是的是的是的</description>
     </item>
   </channel>
