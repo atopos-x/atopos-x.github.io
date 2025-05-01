@@ -1,0 +1,10 @@
+public/
+chatglm.sh
+hugoPush.sh
+/content/resources/
+resources/
+.hugo_build.lock
+/themes
+/themes
+/content/.obsidian
+/content/snippets/

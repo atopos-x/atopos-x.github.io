@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-unique"]
+	path = themes/hugo-theme-unique
+	url = https://github.com/atopos-x/hugo-theme-unique.git
