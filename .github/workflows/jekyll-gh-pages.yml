@@ -32,15 +32,12 @@ jobs:
       - name: Build Hugo site
         run: |
           hugo --config hugo.toml -d public
-        
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+
+      - name: Upload artifact for GitHub Pages
+        uses: actions/upload-artifact@v4
         with:
-          branch: gh-pages
-          folder: public
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          name: github-pages
+          path: public
 
   deploy:
     environment:
@@ -49,9 +46,14 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: github-pages
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
         with:
           branch: gh-pages
-          folder: public
+          folder: github-pages
