@@ -37,7 +37,7 @@ jobs:
           extended: true
       - name: Build Hugo site
         run: |
-          hugo
+          hugo --config hugo.toml -d public
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v1
         with:
