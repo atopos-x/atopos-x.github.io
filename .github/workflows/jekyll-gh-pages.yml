@@ -26,18 +26,25 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout code and submodules
         uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
         with:
-          source: ./
-          destination: ./_site
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-
+          submodules: true
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v4
+        with:
+          hugo_version: 'latest'  # 或指定版本，如 '0.119.0'
+          extended: true
+      - name: Build Hugo site
+        run: |
+          hugo -d public  # 默认输出目录为 public，确保与部署配置一致
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
+        with:
+          branch: gh-pages
+          folder: public  # 确保与 Hugo 输出目录一致
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   # Deployment job
   deploy:
     environment:
@@ -49,3 +56,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          branch: gh-pages
+          folder: ${{ needs.build.outputs.public_dir }}
