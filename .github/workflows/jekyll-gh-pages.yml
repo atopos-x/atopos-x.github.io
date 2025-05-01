@@ -24,14 +24,14 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code and submodules
         uses: actions/checkout@v4
         with:
           submodules: true
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3.8.4
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo_version: 'latest'  # 或指定版本，如 '0.119.0'
           extended: true
