@@ -31,7 +31,7 @@ jobs:
         with:
           submodules: true
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v4.0.0
+        uses: peaceiris/actions-hugo@v3.8.4
         with:
           hugo_version: 'latest'  # 或指定版本，如 '0.119.0'
           extended: true
