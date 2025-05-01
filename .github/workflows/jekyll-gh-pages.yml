@@ -1,28 +1,20 @@
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  # Build job
   build:
     runs-on: ubuntu-latest
     steps:
@@ -30,22 +22,26 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: true
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.84.2'  # 或指定版本，如 '0.119.0'
+          hugo-version: '0.84.2'  # Specify Hugo version
           extended: true
+
       - name: Build Hugo site
         run: |
           hugo --config hugo.toml -d public
+        
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
+        id: deployment
+        uses: actions/deploy-pages@v4
         with:
           branch: gh-pages
-          folder: public  # 确保与 Hugo 输出目录一致
+          folder: public
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  # Deployment job
+
   deploy:
     environment:
       name: github-pages
@@ -58,4 +54,4 @@ jobs:
         uses: actions/deploy-pages@v4
         with:
           branch: gh-pages
-          folder: ${{ needs.build.outputs.public_dir }}
+          folder: public
