@@ -10,8 +10,6 @@ summaryLength = 80
 paginate = 11
 enableGitInfo = true
 
-ignoreLogs = ['warning-partial-superfluous-prefix']
-
 # 使用obisdian编写markdown,设置编译public时忽略文件
 ignoreFiles = ['\\.obsidian/*','snippets','\\.trash/*']
 
