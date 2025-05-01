@@ -33,7 +33,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo_version: '0.55.0'  # 或指定版本，如 '0.119.0'
+          hugo_version: '0.119.0'  # 或指定版本，如 '0.119.0'
           extended: true
       - name: Build Hugo site
         run: |
