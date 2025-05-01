@@ -4,7 +4,6 @@ hugoPush.sh
 /content/resources/
 resources/
 .hugo_build.lock
-/themes
-/themes
+/themes/
 /content/.obsidian
 /content/snippets/
