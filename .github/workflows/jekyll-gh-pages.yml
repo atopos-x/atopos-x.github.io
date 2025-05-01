@@ -37,7 +37,7 @@ jobs:
           extended: true
       - name: Build Hugo site
         run: |
-          hugo -d public  # 默认输出目录为 public，确保与部署配置一致
+          hugo
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v1
         with:
