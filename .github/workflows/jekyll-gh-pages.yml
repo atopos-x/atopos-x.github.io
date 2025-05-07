@@ -1,58 +1,48 @@
-# 文件路径：.github/workflows/jekyll-gh-pages.yml
-
-name: Deploy Jekyll to GitHub Pages  # 工作流名称（会在Actions页面显示）
+name: Deploy Jekyll to GitHub Pages
 
 on:
   push:
-    branches: [ "main" ]  # 触发条件：当main分支有push时运行
-  workflow_dispatch:      # 允许在GitHub网页手动触发工作流
+    branches: [ "main" ]
+  workflow_dispatch:
 
 permissions:
-  contents: write        # 关键权限：允许工作流向仓库写入内容
-  pages: write           # 必需：允许部署到GitHub Pages
-  id-token: write        # 必需：用于OIDC身份验证
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest  # 使用最新版Ubuntu系统作为运行环境
-    environment:           # 关联到GitHub Pages环境
+    runs-on: ubuntu-latest
+    environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}  # 获取部署后的URL
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      # 步骤1：检出仓库代码
       - name: Checkout repository
-        uses: actions/checkout@v4  # 官方代码检出Action
-        with:
-          persist-credentials: false  # 禁用持久化凭据（推荐安全设置）
+        uses: actions/checkout@v4
 
-      # 步骤2：设置Ruby环境
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.0       # 必须与Gemfile中指定的版本一致
-          bundler-cache: true     # 自动缓存Gem依赖（加速后续构建）
+          ruby-version: 3.0
+          bundler-cache: true
 
-      # 步骤3：安装Jekyll和依赖
       - name: Install dependencies
         run: |
-          gem install jekyll      # 安装最新Jekyll
-          bundle install          # 根据Gemfile安装项目依赖
+          gem install jekyll
+          bundle install
 
-      # 步骤4：构建静态网站
       - name: Build with Jekyll
-        run: |
-          bundle exec jekyll build --trace  # 带详细日志的构建命令
+        run: bundle exec jekyll build --trace
         env:
-          JEKYLL_ENV: production  # 设置为生产环境（影响某些插件行为）
+          JEKYLL_ENV: production
 
-      # 步骤5：上传构建产物
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+      # 关键修正点：使用 Pages 专用上传 Action
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v2  # 正确名称和版本
         with:
-          path: ./_site  # 指定Jekyll生成的静态文件目录
+          path: ./_site
 
-      # 步骤6：部署到GitHub Pages
       - name: Deploy to GitHub Pages
-        id: deployment  # 给步骤命名以便后续引用输出
-        uses: actions/deploy-pages@v3  # 官方部署Action
+        id: deployment
+        uses: actions/deploy-pages@v3
