@@ -14,8 +14,8 @@ nslookup baidu.com(地址)
 [wallhaven.cc](https://wallhaven.cc/)
 ### 超级简单的个人网站部署客户端推荐
 [Gridea | 一个静态博客写作客户端](https://open.gridea.dev/)
-一站式的方案，只需要配置，只专注于写作
-[XJFKKK Blog | 一个NotionNext搭建的博客](https://blog.xjfkkk.top/?theme=landing)
+一站式的方案，只需要配置，只专注于写作  
+[XJFKKK Blog | 一个NotionNext搭建的博客](https://blog.xjfkkk.top/?theme=landing)  
 [NotionNext中文 | Notion笔记，轻松建站，NotionNext官网](https://www.tangly1024.com/)
 使用Notion笔记建立的网站
 ### php xdebug的配置、调试、跟踪、调优、分析
