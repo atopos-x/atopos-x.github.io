@@ -1,7 +1,7 @@
 ---
-title: nav
+title: Nav
 aliases:
-  - nav
+  - Nav
 type: nav
 ---
 ## 🌞 *我的*
