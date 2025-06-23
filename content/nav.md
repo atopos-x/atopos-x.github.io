@@ -1,8 +1,8 @@
 ---
-title: Nav
+title: nav
 aliases:
   - nav
-type: Nav
+type: nav
 ---
 ## 🌞 *我的*
 - [Atopos](https://atopos-x.github.io/)
