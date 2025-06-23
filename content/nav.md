@@ -67,6 +67,7 @@ type: nav
 
 ## 🔖 *标签 BOOKMARKs*
 >:: svg
+
 - [Yesicon - 精选全球高品质、开源、免费的矢量图标库](https://yesicon.app/)
 - [ICONSVG - Quick customizable SVG icons for your project](https://iconsvg.xyz/)
 - [Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS](https://www.flaticon.com/)
@@ -86,14 +87,18 @@ type: nav
 - [Free SVG Image & Icon. | SVG Silh](https://svgsilh.com/)
 - [免费图床，看这一篇就够了！ - kjcy8 - 博客园 (cnblogs.com)](https://www.cnblogs.com/kjcy8/articles/16648814.html)
 >:: 邮箱
+
 - [Google临时邮箱,一次性邮箱,10分钟邮箱,24小时邮箱,临时邮箱专业服务 - 22.Do](https://22.do/zh)
 - [Temp Mail | 10 minute mail | Disposable Temporary Email | Email generator - Tempmail.vip](https://www.tempmail.vip/en)
 >:: 软件
+
 - [軟體吧 ┊ 精品軟體免費下載 (soft8ware.com)](https://soft8ware.com/)
 - [果核剥壳 - 互联网的净土 (ghxi.com)](https://www.ghxi.com/)
 >:: 工具
+
 - [syncplicity 美国免费网络同步工具 - 免费资源网 (freeaday.com)](https://www.freeaday.com/2021/01/syncplicity/)
 - [Microsoft Remote Connectivity Analyzer](https://testconnectivity.microsoft.com/tests/exo)
 - [Vercel: Build and deploy the best web experiences with the Frontend Cloud](https://vercel.com/)
 >:: 强迫症
+
 - [win10 如何删除 右键 打开方式 中多余的程序选项?(不删除程序)](https://answers.microsoft.com/zh-hans/windows/forum/all/win10-%E5%A6%82%E4%BD%95%E5%88%A0%E9%99%A4/803b1267-bda3-4ec3-bcda-71f85373ec14)
