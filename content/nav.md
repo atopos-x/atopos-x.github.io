@@ -1,9 +1,10 @@
 ---
 title: Nav
 aliases:
-  - Nav
+  - nav
 type: nav
 ---
+<div class="nav">
 ## 🌞 *我的*
 - [Atopos](https://atopos-x.github.io/)
 - [Java学习笔记](http://atopos.infinityfreeapp.com/)
@@ -60,11 +61,8 @@ type: nav
 - [docitem two](/archive)
 - [docitem three](https://nav-item-three.com)
 
-
-## 🔖 *标签 BOOKMARKs*
-
 <div class="bookmark">
-
+## 🔖 *标签 BOOKMARKs*
 >:: svg
 - [Yesicon - 精选全球高品质、开源、免费的矢量图标库](https://yesicon.app/)
 - [ICONSVG - Quick customizable SVG icons for your project](https://iconsvg.xyz/)
@@ -96,4 +94,3 @@ type: nav
 - [Vercel: Build and deploy the best web experiences with the Frontend Cloud](https://vercel.com/)
 >:: 强迫症
 - [win10 如何删除 右键 打开方式 中多余的程序选项?(不删除程序)](https://answers.microsoft.com/zh-hans/windows/forum/all/win10-%E5%A6%82%E4%BD%95%E5%88%A0%E9%99%A4/803b1267-bda3-4ec3-bcda-71f85373ec14)
-</div>
