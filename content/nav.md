@@ -17,6 +17,7 @@ type: nav
 - [QuickLook](https://github.com/QL-Win/QuickLook)
 - [Snipaste](https://www.snipaste.com/)
 - [(Steam++官网) - Watt Toolkit](https://steampp.net/)
+- [图吧工具箱](https://www.tbtool.cn/)
 - [多业务镜像搜索](https://iqdb.org/)
 - [压缩](https://sourceforge.net/projects/nikkhokkho/)
 - [SVG](https://svgl.app/)
