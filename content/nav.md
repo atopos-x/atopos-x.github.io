@@ -2,10 +2,8 @@
 title: Nav
 aliases:
   - nav
-type: nav
+type: Nav
 ---
-
-
 ## 🌞 *我的*
 - [Atopos](https://atopos-x.github.io/)
 - [Java学习笔记](http://atopos.infinityfreeapp.com/)
