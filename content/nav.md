@@ -62,12 +62,11 @@ type: nav
 - [docitem two](/archive)
 - [docitem three](https://nav-item-three.com)
 
+## 🔖 *标签 BOOKMARKs*
 
 <div class="bookmark">
 
-## 🔖 *标签 BOOKMARKs*
-
->:: svg  
+>:: svg
 - [Yesicon - 精选全球高品质、开源、免费的矢量图标库](https://yesicon.app/)
 - [ICONSVG - Quick customizable SVG icons for your project](https://iconsvg.xyz/)
 - [Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS](https://www.flaticon.com/)
