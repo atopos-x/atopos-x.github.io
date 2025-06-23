@@ -5,7 +5,6 @@ aliases:
 type: nav
 ---
 
-<div class="nav">
 
 ## 🌞 *我的*
 - [Atopos](https://atopos-x.github.io/)
@@ -63,7 +62,6 @@ type: nav
 - [docitem two](/archive)
 - [docitem three](https://nav-item-three.com)
 
-</div>
 
 ## 🔖 *标签 BOOKMARKs*
 
