@@ -65,7 +65,7 @@ type: nav
 </div>
 
 
-## 🔖 *标签 BOOKMARKs*
+## 🔖 *标签 BOOKMARK*
 
 <div class="bookmark">
 
